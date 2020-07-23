@@ -3,3 +3,4 @@
 *.so
 moc_*.cpp
 Makefile
+build
